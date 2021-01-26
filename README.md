@@ -6,9 +6,13 @@
 
 <h2 align="center"><a  href="https://github.com/RiyanBliTe/CarF">CarF</a></h2> 
 
+<p align="center">
+  <img src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/emblem.png">
+</p>
+
 #### This is a _client-server_ application of an online car seat shop. The development of this application was accompanied by the fact that I studied the **_Qt framework_** and data transfer via _TCP IP protocol_.
 
-##### What I learned to do
+##### What I learned to do:
 
 * Understood the work of main libraries in the Qt framework.
 * Learned to compose widgets in a visual editor.
@@ -20,4 +24,4 @@
 * Learned to work with slots and signals in the Qt framework.
 * And much **more** :wink:
 
-##### Let's take a look at the app
+##### You can see the project at the [link](https://github.com/RiyanBliTe/CarF)
