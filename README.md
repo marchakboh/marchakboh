@@ -1,4 +1,4 @@
-## Hi everyone, I'm Bohdan 👋
+## Hi everyone 👋
 
 #### C and C++ programming languages as a tool for creating incredible things :rocket: develop projects on Qt framework and also work with Visual Sudio. Work with Unreal Engine to create new fascinating worlds :video_game:
 
@@ -45,3 +45,16 @@
 
 
 ##### Project [link](https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png)
+
+<h2 align="center">Additionally</h2>
+
+### I also have a few more versions of the game I once wrote on Java
+
+* [Bubble world 1.0](https://github.com/RiyanBliTe/Bubble_world_1)
+* [Bubble world 1.2](https://github.com/RiyanBliTe/Bubble_world_1.2)
+
+##### But once I stopped encouraging their development, so it's a _dead project_
+
+### A little about me
+
+##### I am a student of such educational institutions:
