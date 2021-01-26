@@ -25,3 +25,23 @@
 * And much **more** :wink:
 
 ##### You can see the project at the [link](https://github.com/RiyanBliTe/CarF)
+
+<h2 align="center"><a  href="https://github.com/RiyanBliTe/Pixi_WAR">Pixi WAR</a></h2>
+
+<p align="center">
+  <img src="https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png">
+</p>
+
+#### This is a _console game_ of the _arcade_ genre :gun:, which is written entirely by _the paradigm of procedural programming_ using C++.
+
+##### The problems I solved:
+
+* Work with a large array of data.
+* Optimize the application for different displays.
+* Improved knowledge of structures, pointers and links.
+* Learned to make a multi-file project.
+* Developed many logical operations.
+* And tested the game :sweat_smile:.
+
+
+##### Project [link](https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png)
