@@ -48,13 +48,32 @@
 
 <h2 align="center">Additionally</h2>
 
-### I also have a few more versions of the game I once wrote on Java
+### I also have a few more versions of the game I once wrote on Java:
 
 * [Bubble world 1.0](https://github.com/RiyanBliTe/Bubble_world_1)
 * [Bubble world 1.2](https://github.com/RiyanBliTe/Bubble_world_1.2)
 
-##### But once I stopped encouraging their development, so it's a _dead project_
+##### But once I stopped encouraging their development, so it's a _dead project_.
 
 ### A little about me
 
-##### I am a student of such educational institutions:
+##### I am a student :mortar_board: of such educational institutions:
+
+<img align="left" width="100" height="100" src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/Nulp_logo_ukr.png">
+
+#### Lviv Polytechnic National University
+##### Institute of Computer Technology, Automation and Metrology</br>Computer Engineering
+
+<br></br>
+
+<img align="left" width="100" height="100" src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/itstep.png">
+
+#### IT STEP Academy</br>
+##### Software development
+
+<br></br>
+
+##### Contact me:
+* [Telegram](https://t.me/drunk_fish)
+* [facebook](https://www.facebook.com/bohdan.marchak.5)
+* [LinkedIn](https://www.linkedin.com/in/bohdan-marchak-5273701a3)
