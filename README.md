@@ -75,5 +75,5 @@
 
 ##### Contact me:
 * [Telegram](https://t.me/drunk_fish)
-* [facebook](https://www.facebook.com/bohdan.marchak.5)
+* [Facebook](https://www.facebook.com/bohdan.marchak.5)
 * [LinkedIn](https://www.linkedin.com/in/bohdan-marchak-5273701a3)
