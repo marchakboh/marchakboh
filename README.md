@@ -1,10 +1,31 @@
 ## Hi everyone 👋
 
-#### C and C++ programming languages as a tool for creating incredible things :rocket: develop projects on Qt framework and also work with Visual Sudio. Work with Unreal Engine to create new fascinating worlds :video_game:
+#### I love creating games :video_game: 
+#### I tried to create them on Godot, Unity, and Unreal Engine. Unreal is my favorite :rocket: Welcome to my code life
 
 ##### Let's get acquainted with my works :arrow_down:
 
-<h2 align="center"><a  href="https://github.com/RiyanBliTe/CarF">CarF</a></h2> 
+<h2 align="center"><a href="https://github.com/marchakboh/JAMProject">2023 GAME JAM</a></h2>
+<p></p>
+
+#### This Game Jam has already been held on a larger scale, and on a different game engine - Unity. This time, everything was in 3D. New challenges and experiences, and most importantly - a fun game :)
+
+<h2 align="center"><a href="https://github.com/kuchermv/GLJam22">2022 GAME JAM</a></h2>
+<p></p>
+
+#### It was my first Game Jam. And it was really cool. A 2D game with the main idea of "It's not supposed to do that". It was fun :)
+
+<h2 align="center"><a href="https://github.com/marchakboh/Chrona">Chrona</a></h2>
+<p></p>
+
+#### There was a time when I was writing a bachelor's project. I decided to make my own CI/CD manager that could graphically make startup scripts. I liked Qt development.
+
+<h2 align="center"><a href="https://github.com/marchakboh/ArcPlanets">ArcPlanets</a></h2>
+<p></p>
+
+#### Once I tried to figure out an engine I didn't know. And that's how this game was born :) It's not very interesting, and it's buggy, but this "trial by fire" helped me a lot.
+
+<h2 align="center"><a href="https://github.com/marchakboh/CarF">CarF</a></h2>
 
 <p align="center">
   <img src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/emblem.png">
@@ -12,39 +33,13 @@
 
 #### This is a _client-server_ application of an online car seat shop. The development of this application was accompanied by the fact that I studied the **_Qt framework_** and data transfer via _TCP IP protocol_.
 
-##### What I learned to do:
-
-* Understood the work of main libraries in the Qt framework.
-* Learned to compose widgets in a visual editor.
-* Connect the client to the server.
-* Send the data format to the server or client.
-* Work with the database through the server.
-* Parse input lines and compose output.
-* Develop your widgets to work with data.
-* Learned to work with slots and signals in the Qt framework.
-* And much **more** :wink:
-
-##### You can see the project at the [link](https://github.com/RiyanBliTe/CarF)
-
-<h2 align="center"><a  href="https://github.com/RiyanBliTe/Pixi_WAR">Pixi WAR</a></h2>
+<h2 align="center"><a href="https://github.com/marchakboh/Pixi_WAR">Pixi WAR</a></h2>
 
 <p align="center">
   <img src="https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png">
 </p>
 
 #### This is a _console game_ of the _arcade_ genre :gun:, which is written entirely by _the paradigm of procedural programming_ using C++.
-
-##### The problems I solved:
-
-* Work with a large array of data.
-* Optimize the application for different displays.
-* Improved knowledge of structures, pointers and links.
-* Learned to make a multi-file project.
-* Developed many logical operations.
-* And tested the game :sweat_smile:.
-
-
-##### Project [link](https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png)
 
 <h2 align="center">Additionally</h2>
 
