@@ -48,6 +48,7 @@ Currently building reusable, plugin-style UE5 foundations (GAS · CommonUI · Mo
 
 | Project | What it is |
 |---|---|
+| [**AssetPull**](https://github.com/marchakboh/AssetPull) | Asset sync / downloader utility (Qt + Python). Automates pulling large external asset libraries into a project workspace. | Shows production tooling: automation, reliability, and workflow optimization for content-heavy teams. |
 | [**Chrona**](https://github.com/marchakboh/Chrona) | Node-based CI/CD pipeline orchestrator built in Qt (C++). Bachelor's capstone — users compose build workflows visually instead of writing scripts. The foundation for my tooling work today. |
 | [**CarF**](https://github.com/marchakboh/CarF) | Client-server desktop app (Qt + TCP/IP). Built while learning the Qt framework and networking fundamentals — the same stack I later used for production asset-sync utilities. |
 
