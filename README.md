@@ -60,7 +60,3 @@ Currently building reusable, plugin-style UE5 foundations (GAS · CommonUI · Mo
 | [**2022 Game Jam (GLJam)**](https://github.com/kuchermv/GLJam22) | First game jam. 2D, theme "It's not supposed to do that". Team project, tight timeline. |
 | [**ArcPlanets**](https://github.com/marchakboh/ArcPlanets) | Quick experiment to learn an unfamiliar engine from scratch. Rough and buggy on purpose — the point was speed of exploration. |
 | [**Pixi WAR**](https://github.com/marchakboh/Pixi_WAR) | Console arcade game. Pure procedural C++ — early practice with game loops and input handling. |
-
----
-
-*Lost Penguin — solo 3D adventure in UE5, currently in development. Updates coming soon.*
