@@ -1,74 +1,65 @@
-## Hi everyone 👋
+<div align="center">
 
-#### I love creating games :video_game: 
-#### I tried to create them on Godot, Unity, and Unreal Engine. Unreal is my favorite :rocket: Welcome to my code life
+# Bohdan Marchak
 
-##### Let's get acquainted with my works :arrow_down:
+**UE C++ Engineer · Systems & Tools · Multiplayer / Online**
 
-<h2 align="center"><a href="https://github.com/marchakboh/JAMProject">2023 GAME JAM</a></h2>
-<p></p>
+Building scalable gameplay frameworks, production-ready pipelines, and the tooling that makes teams faster.
 
-#### This Game Jam has already been held on a larger scale, and on a different game engine - Unity. This time, everything was in 3D. New challenges and experiences, and most importantly - a fun game :)
+<br>
 
-<h2 align="center"><a href="https://github.com/kuchermv/GLJam22">2022 GAME JAM</a></h2>
-<p></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-marchak-5273701a3)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marchakboh@gmail.com)
 
-#### It was my first Game Jam. And it was really cool. A 2D game with the main idea of "It's not supposed to do that". It was fun :)
+</div>
 
-<h2 align="center"><a href="https://github.com/marchakboh/Chrona">Chrona</a></h2>
-<p></p>
+---
 
-#### There was a time when I was writing a bachelor's project. I decided to make my own CI/CD manager that could graphically make startup scripts. I liked Qt development.
+<div align="center">
 
-<h2 align="center"><a href="https://github.com/marchakboh/ArcPlanets">ArcPlanets</a></h2>
-<p></p>
+### Tech Stack
 
-#### Once I tried to figure out an engine I didn't know. And that's how this game was born :) It's not very interesting, and it's buggy, but this "trial by fire" helped me a lot.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41B6E6?style=flat-square&logo=qt&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-54C234?style=flat-square&logo=lua&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-1B9FFF?style=flat-square&logo=steam&logoColor=white)
 
-<h2 align="center"><a href="https://github.com/marchakboh/CarF">CarF</a></h2>
+</div>
 
-<p align="center">
-  <img src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/emblem.png">
-</p>
+---
 
-#### This is a _client-server_ application of an online car seat shop. The development of this application was accompanied by the fact that I studied the **_Qt framework_** and data transfer via _TCP IP protocol_.
+### About
 
-<h2 align="center"><a href="https://github.com/marchakboh/Pixi_WAR">Pixi WAR</a></h2>
+Unreal Engine C++ developer with a focus on multiplayer systems, online service integration, and developer tooling. Spent three years shipping live mobile games at Gameloft — working across legacy C++ engines, live-ops automation, CI/CD, and telemetry at scale. Since then, led the technical architecture of a multiplayer UE5 title from rough prototype to production-ready state as Development Team Lead at Gamirare.
 
-<p align="center">
-  <img src="https://github.com/RiyanBliTe/Pixi_WAR/blob/master/images/emblem2.png">
-</p>
+Currently building reusable, plugin-style UE5 foundations (GAS · CommonUI · Modular Gameplay) and prototyping an indie 3D adventure as a solo developer.
 
-#### This is a _console game_ of the _arcade_ genre :gun:, which is written entirely by _the paradigm of procedural programming_ using C++.
+---
 
-<h2 align="center">Additionally</h2>
+### Projects
 
-### I also have a few more versions of the game I once wrote on Java:
+#### 🛠️ Tools & Systems
 
-* [Bubble world 1.0](https://github.com/RiyanBliTe/Bubble_world_1)
-* [Bubble world 1.2](https://github.com/RiyanBliTe/Bubble_world_1.2)
+| Project | What it is |
+|---|---|
+| [**Chrona**](https://github.com/marchakboh/Chrona) | Node-based CI/CD pipeline orchestrator built in Qt (C++). Bachelor's capstone — users compose build workflows visually instead of writing scripts. The foundation for my tooling work today. |
+| [**CarF**](https://github.com/marchakboh/CarF) | Client-server desktop app (Qt + TCP/IP). Built while learning the Qt framework and networking fundamentals — the same stack I later used for production asset-sync utilities. |
 
-##### But once I stopped encouraging their development, so it's a _dead project_.
+#### 🎮 Games & Jams
 
-### A little about me
+| Project | What it is |
+|---|---|
+| [**2023 Game Jam**](https://github.com/marchakboh/JAMProject) | 3D game jam on Unity. Larger scope than the previous jam — new engine, new challenges, shipped on deadline. |
+| [**2022 Game Jam (GLJam)**](https://github.com/kuchermv/GLJam22) | First game jam. 2D, theme "It's not supposed to do that". Team project, tight timeline. |
+| [**ArcPlanets**](https://github.com/marchakboh/ArcPlanets) | Quick experiment to learn an unfamiliar engine from scratch. Rough and buggy on purpose — the point was speed of exploration. |
+| [**Pixi WAR**](https://github.com/marchakboh/Pixi_WAR) | Console arcade game. Pure procedural C++ — early practice with game loops and input handling. |
 
-##### I am a student :mortar_board: of such educational institutions:
+---
 
-<img align="left" width="100" height="100" src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/Nulp_logo_ukr.png">
-
-#### Lviv Polytechnic National University
-##### Institute of Computer Technology, Automation and Metrology</br>Computer Engineering
-
-<br></br>
-
-<img align="left" width="100" height="100" src="https://github.com/RiyanBliTe/RiyanBliTe/blob/main/images/itstep.png">
-
-#### IT STEP Academy</br>
-##### Software development
-
-<br></br>
-
-##### Contact me:
-* [Telegram](https://t.me/drunk_fish)
-* [Facebook](https://www.facebook.com/bohdan.marchak.5)
-* [LinkedIn](https://www.linkedin.com/in/bohdan-marchak-5273701a3)
+*Lost Penguin — solo 3D adventure in UE5, currently in development. Updates coming soon.*
